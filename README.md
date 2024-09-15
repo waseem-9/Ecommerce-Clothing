@@ -15,6 +15,9 @@ Ecommerce Clothing is an online platform that allows users to browse, search, an
 
 ![Screenshot 2024-09-05 182449](https://github.com/user-attachments/assets/37523929-62b4-4e03-9805-69fee0d70b50)
 
+![Screenshot 2024-09-05 182839](https://github.com/user-attachments/assets/8a9d26ea-a97f-49ea-baf0-c14d5b8e2a1f)
+
+
 
 
 
