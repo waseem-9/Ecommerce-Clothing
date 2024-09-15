@@ -71,10 +71,6 @@ To set up the project locally, follow these steps:
     disk.upload.basepath=........
 
     # Email SMTP setup
-    # Enter your email ID
-    # Login with this email ID in your Google Account
-    # Generate the App Password and enter that password here
-    # Note: Don't enter your actual email password here
     spring.mail.host=smtp.gmail.com
     spring.mail.port=587
     spring.mail.username=narutoo95424@gmail.com
@@ -112,7 +108,7 @@ To set up the project locally, follow these steps:
     npm start
     ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
+4. Open your browser and navigate to `http://localhost:5173`.
 
 ## Usage
 
